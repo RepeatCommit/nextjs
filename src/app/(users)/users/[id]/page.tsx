@@ -5,7 +5,7 @@ import {userService} from "@/sevices/api.service";
 type Params = {params: {id: string}};
 
 const UserPage = async ({params}:Params) => {
-   let user = await userService.getUserById(params.id)
+   const user = await userService.getUserById(params.id)
     return (
         <div>
             {user?.name} {user?.email}
