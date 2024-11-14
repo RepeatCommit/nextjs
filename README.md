@@ -1,3 +1,12 @@
+
+
+lesson 1 nextjs how works routes and fetch data from api
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
