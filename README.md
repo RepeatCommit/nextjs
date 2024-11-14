@@ -1,6 +1,7 @@
 
 
 lesson 1 nextjs how works routes and fetch data from api
+add new information how to pass props and get information about each user after click on it
 
 
 
